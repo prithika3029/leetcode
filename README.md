@@ -17,4 +17,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2727-number-of-senior-citizens](https://github.com/prithika3029/leetcode/tree/master/2727-number-of-senior-citizens) |
+| [2819-remove-trailing-zeros-from-a-string](https://github.com/prithika3029/leetcode/tree/master/2819-remove-trailing-zeros-from-a-string) |
 <!---LeetCode Topics End-->
