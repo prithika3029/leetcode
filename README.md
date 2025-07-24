@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1677-matrix-diagonal-sum](https://github.com/prithika3029/leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [2727-number-of-senior-citizens](https://github.com/prithika3029/leetcode/tree/master/2727-number-of-senior-citizens) |
 | [3582-find-indices-of-stable-mountains](https://github.com/prithika3029/leetcode/tree/master/3582-find-indices-of-stable-mountains) |
 ## String
@@ -39,4 +40,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/prithika3029/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/prithika3029/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+## Matrix
+|  |
+| ------- |
+| [1677-matrix-diagonal-sum](https://github.com/prithika3029/leetcode/tree/master/1677-matrix-diagonal-sum) |
 <!---LeetCode Topics End-->
