@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0748-largest-number-at-least-twice-of-others](https://github.com/prithika3029/leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [1677-matrix-diagonal-sum](https://github.com/prithika3029/leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [2727-number-of-senior-citizens](https://github.com/prithika3029/leetcode/tree/master/2727-number-of-senior-citizens) |
 | [3582-find-indices-of-stable-mountains](https://github.com/prithika3029/leetcode/tree/master/3582-find-indices-of-stable-mountains) |
@@ -48,4 +49,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1677-matrix-diagonal-sum](https://github.com/prithika3029/leetcode/tree/master/1677-matrix-diagonal-sum) |
+## Sorting
+|  |
+| ------- |
+| [0748-largest-number-at-least-twice-of-others](https://github.com/prithika3029/leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
 <!---LeetCode Topics End-->
