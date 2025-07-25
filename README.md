@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0089-gray-code](https://github.com/prithika3029/leetcode/tree/master/0089-gray-code) |
 | [0222-count-complete-tree-nodes](https://github.com/prithika3029/leetcode/tree/master/0222-count-complete-tree-nodes) |
 ## Breadth-First Search
 |  |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0089-gray-code](https://github.com/prithika3029/leetcode/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/prithika3029/leetcode/tree/master/0096-unique-binary-search-trees) |
 ## Dynamic Programming
 |  |
@@ -81,4 +83,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/prithika3029/leetcode/tree/master/0096-unique-binary-search-trees) |
+## Backtracking
+|  |
+| ------- |
+| [0089-gray-code](https://github.com/prithika3029/leetcode/tree/master/0089-gray-code) |
 <!---LeetCode Topics End-->
