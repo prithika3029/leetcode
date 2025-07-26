@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2819-remove-trailing-zeros-from-a-string](https://github.com/prithika3029/leetcode/tree/master/2819-remove-trailing-zeros-from-a-string) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/prithika3029/leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3055-maximum-odd-binary-number](https://github.com/prithika3029/leetcode/tree/master/3055-maximum-odd-binary-number) |
+| [3312-number-of-changing-keys](https://github.com/prithika3029/leetcode/tree/master/3312-number-of-changing-keys) |
 | [3636-check-balanced-string](https://github.com/prithika3029/leetcode/tree/master/3636-check-balanced-string) |
 ## Stack
 |  |
