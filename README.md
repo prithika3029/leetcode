@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0748-largest-number-at-least-twice-of-others](https://github.com/prithika3029/leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [1677-matrix-diagonal-sum](https://github.com/prithika3029/leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [1899-count-items-matching-a-rule](https://github.com/prithika3029/leetcode/tree/master/1899-count-items-matching-a-rule) |
+| [2639-separate-the-digits-in-an-array](https://github.com/prithika3029/leetcode/tree/master/2639-separate-the-digits-in-an-array) |
 | [2727-number-of-senior-citizens](https://github.com/prithika3029/leetcode/tree/master/2727-number-of-senior-citizens) |
 | [3582-find-indices-of-stable-mountains](https://github.com/prithika3029/leetcode/tree/master/3582-find-indices-of-stable-mountains) |
 ## String
@@ -102,4 +103,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1892-find-total-time-spent-by-each-employee](https://github.com/prithika3029/leetcode/tree/master/1892-find-total-time-spent-by-each-employee) |
 | [2110-employees-with-missing-information](https://github.com/prithika3029/leetcode/tree/master/2110-employees-with-missing-information) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/prithika3029/leetcode/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
+## Simulation
+|  |
+| ------- |
+| [2639-separate-the-digits-in-an-array](https://github.com/prithika3029/leetcode/tree/master/2639-separate-the-digits-in-an-array) |
 <!---LeetCode Topics End-->
