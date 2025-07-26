@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1899-count-items-matching-a-rule](https://github.com/prithika3029/leetcode/tree/master/1899-count-items-matching-a-rule) |
 | [2639-separate-the-digits-in-an-array](https://github.com/prithika3029/leetcode/tree/master/2639-separate-the-digits-in-an-array) |
 | [2727-number-of-senior-citizens](https://github.com/prithika3029/leetcode/tree/master/2727-number-of-senior-citizens) |
+| [2847-find-maximum-number-of-string-pairs](https://github.com/prithika3029/leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3582-find-indices-of-stable-mountains](https://github.com/prithika3029/leetcode/tree/master/3582-find-indices-of-stable-mountains) |
 ## String
 |  |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1899-count-items-matching-a-rule](https://github.com/prithika3029/leetcode/tree/master/1899-count-items-matching-a-rule) |
 | [2727-number-of-senior-citizens](https://github.com/prithika3029/leetcode/tree/master/2727-number-of-senior-citizens) |
 | [2819-remove-trailing-zeros-from-a-string](https://github.com/prithika3029/leetcode/tree/master/2819-remove-trailing-zeros-from-a-string) |
+| [2847-find-maximum-number-of-string-pairs](https://github.com/prithika3029/leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3055-maximum-odd-binary-number](https://github.com/prithika3029/leetcode/tree/master/3055-maximum-odd-binary-number) |
 ## Stack
 |  |
@@ -109,8 +111,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2639-separate-the-digits-in-an-array](https://github.com/prithika3029/leetcode/tree/master/2639-separate-the-digits-in-an-array) |
+| [2847-find-maximum-number-of-string-pairs](https://github.com/prithika3029/leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
 ## Greedy
 |  |
 | ------- |
 | [3055-maximum-odd-binary-number](https://github.com/prithika3029/leetcode/tree/master/3055-maximum-odd-binary-number) |
+## Hash Table
+|  |
+| ------- |
+| [2847-find-maximum-number-of-string-pairs](https://github.com/prithika3029/leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
 <!---LeetCode Topics End-->
