@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1899-count-items-matching-a-rule](https://github.com/prithika3029/leetcode/tree/master/1899-count-items-matching-a-rule) |
 | [2727-number-of-senior-citizens](https://github.com/prithika3029/leetcode/tree/master/2727-number-of-senior-citizens) |
 | [2819-remove-trailing-zeros-from-a-string](https://github.com/prithika3029/leetcode/tree/master/2819-remove-trailing-zeros-from-a-string) |
+| [3055-maximum-odd-binary-number](https://github.com/prithika3029/leetcode/tree/master/3055-maximum-odd-binary-number) |
 ## Stack
 |  |
 | ------- |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0089-gray-code](https://github.com/prithika3029/leetcode/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/prithika3029/leetcode/tree/master/0096-unique-binary-search-trees) |
+| [3055-maximum-odd-binary-number](https://github.com/prithika3029/leetcode/tree/master/3055-maximum-odd-binary-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -107,4 +109,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2639-separate-the-digits-in-an-array](https://github.com/prithika3029/leetcode/tree/master/2639-separate-the-digits-in-an-array) |
+## Greedy
+|  |
+| ------- |
+| [3055-maximum-odd-binary-number](https://github.com/prithika3029/leetcode/tree/master/3055-maximum-odd-binary-number) |
 <!---LeetCode Topics End-->
