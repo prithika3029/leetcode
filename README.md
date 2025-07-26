@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/prithika3029/leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
+| [1547-destination-city](https://github.com/prithika3029/leetcode/tree/master/1547-destination-city) |
 | [1677-matrix-diagonal-sum](https://github.com/prithika3029/leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [1899-count-items-matching-a-rule](https://github.com/prithika3029/leetcode/tree/master/1899-count-items-matching-a-rule) |
 | [2639-separate-the-digits-in-an-array](https://github.com/prithika3029/leetcode/tree/master/2639-separate-the-digits-in-an-array) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1547-destination-city](https://github.com/prithika3029/leetcode/tree/master/1547-destination-city) |
 | [1899-count-items-matching-a-rule](https://github.com/prithika3029/leetcode/tree/master/1899-count-items-matching-a-rule) |
 | [2727-number-of-senior-citizens](https://github.com/prithika3029/leetcode/tree/master/2727-number-of-senior-citizens) |
 | [2819-remove-trailing-zeros-from-a-string](https://github.com/prithika3029/leetcode/tree/master/2819-remove-trailing-zeros-from-a-string) |
@@ -121,5 +123,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [1547-destination-city](https://github.com/prithika3029/leetcode/tree/master/1547-destination-city) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/prithika3029/leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
 <!---LeetCode Topics End-->
