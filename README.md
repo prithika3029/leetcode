@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1547-destination-city](https://github.com/prithika3029/leetcode/tree/master/1547-destination-city) |
 | [1677-matrix-diagonal-sum](https://github.com/prithika3029/leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [1899-count-items-matching-a-rule](https://github.com/prithika3029/leetcode/tree/master/1899-count-items-matching-a-rule) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/prithika3029/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2639-separate-the-digits-in-an-array](https://github.com/prithika3029/leetcode/tree/master/2639-separate-the-digits-in-an-array) |
 | [2727-number-of-senior-citizens](https://github.com/prithika3029/leetcode/tree/master/2727-number-of-senior-citizens) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/prithika3029/leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2271-rearrange-array-elements-by-sign](https://github.com/prithika3029/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2639-separate-the-digits-in-an-array](https://github.com/prithika3029/leetcode/tree/master/2639-separate-the-digits-in-an-array) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/prithika3029/leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
 ## Greedy
@@ -125,4 +127,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1547-destination-city](https://github.com/prithika3029/leetcode/tree/master/1547-destination-city) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/prithika3029/leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
+## Two Pointers
+|  |
+| ------- |
+| [2271-rearrange-array-elements-by-sign](https://github.com/prithika3029/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
