@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/prithika3029/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/prithika3029/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/prithika3029/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [2121-find-if-path-exists-in-graph](https://github.com/prithika3029/leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
 | ------- |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/prithika3029/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [2121-find-if-path-exists-in-graph](https://github.com/prithika3029/leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 ## Math
 |  |
 | ------- |
@@ -131,4 +133,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2271-rearrange-array-elements-by-sign](https://github.com/prithika3029/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
+## Union Find
+|  |
+| ------- |
+| [2121-find-if-path-exists-in-graph](https://github.com/prithika3029/leetcode/tree/master/2121-find-if-path-exists-in-graph) |
+## Graph
+|  |
+| ------- |
+| [2121-find-if-path-exists-in-graph](https://github.com/prithika3029/leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
