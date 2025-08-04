@@ -88,11 +88,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0089-gray-code](https://github.com/prithika3029/leetcode/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/prithika3029/leetcode/tree/master/0096-unique-binary-search-trees) |
+| [1013-fibonacci-number](https://github.com/prithika3029/leetcode/tree/master/1013-fibonacci-number) |
 | [3055-maximum-odd-binary-number](https://github.com/prithika3029/leetcode/tree/master/3055-maximum-odd-binary-number) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/prithika3029/leetcode/tree/master/0096-unique-binary-search-trees) |
+| [1013-fibonacci-number](https://github.com/prithika3029/leetcode/tree/master/1013-fibonacci-number) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -142,4 +144,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1916-find-center-of-star-graph](https://github.com/prithika3029/leetcode/tree/master/1916-find-center-of-star-graph) |
 | [2121-find-if-path-exists-in-graph](https://github.com/prithika3029/leetcode/tree/master/2121-find-if-path-exists-in-graph) |
+## Recursion
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/prithika3029/leetcode/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/prithika3029/leetcode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
