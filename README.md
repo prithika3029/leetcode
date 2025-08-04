@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/prithika3029/leetcode/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/prithika3029/leetcode/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/prithika3029/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [1013-fibonacci-number](https://github.com/prithika3029/leetcode/tree/master/1013-fibonacci-number) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/prithika3029/leetcode/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/prithika3029/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [1013-fibonacci-number](https://github.com/prithika3029/leetcode/tree/master/1013-fibonacci-number) |
 ## Binary Search Tree
@@ -151,5 +153,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/prithika3029/leetcode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/prithika3029/leetcode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
