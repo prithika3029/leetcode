@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/prithika3029/leetcode/tree/master/0383-ransom-note) |
 | [1547-destination-city](https://github.com/prithika3029/leetcode/tree/master/1547-destination-city) |
 | [1899-count-items-matching-a-rule](https://github.com/prithika3029/leetcode/tree/master/1899-count-items-matching-a-rule) |
 | [2727-number-of-senior-citizens](https://github.com/prithika3029/leetcode/tree/master/2727-number-of-senior-citizens) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/prithika3029/leetcode/tree/master/0383-ransom-note) |
 | [1547-destination-city](https://github.com/prithika3029/leetcode/tree/master/1547-destination-city) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/prithika3029/leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
 ## Two Pointers
@@ -160,4 +162,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/prithika3029/leetcode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/prithika3029/leetcode/tree/master/1013-fibonacci-number) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/prithika3029/leetcode/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
