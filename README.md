@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2271-rearrange-array-elements-by-sign](https://github.com/prithika3029/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2639-separate-the-digits-in-an-array](https://github.com/prithika3029/leetcode/tree/master/2639-separate-the-digits-in-an-array) |
 | [2727-number-of-senior-citizens](https://github.com/prithika3029/leetcode/tree/master/2727-number-of-senior-citizens) |
+| [2831-number-of-beautiful-pairs](https://github.com/prithika3029/leetcode/tree/master/2831-number-of-beautiful-pairs) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/prithika3029/leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3582-find-indices-of-stable-mountains](https://github.com/prithika3029/leetcode/tree/master/3582-find-indices-of-stable-mountains) |
 ## String
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/prithika3029/leetcode/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/prithika3029/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [1013-fibonacci-number](https://github.com/prithika3029/leetcode/tree/master/1013-fibonacci-number) |
+| [2831-number-of-beautiful-pairs](https://github.com/prithika3029/leetcode/tree/master/2831-number-of-beautiful-pairs) |
 | [3055-maximum-odd-binary-number](https://github.com/prithika3029/leetcode/tree/master/3055-maximum-odd-binary-number) |
 ## Dynamic Programming
 |  |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0383-ransom-note](https://github.com/prithika3029/leetcode/tree/master/0383-ransom-note) |
 | [1547-destination-city](https://github.com/prithika3029/leetcode/tree/master/1547-destination-city) |
+| [2831-number-of-beautiful-pairs](https://github.com/prithika3029/leetcode/tree/master/2831-number-of-beautiful-pairs) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/prithika3029/leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
 ## Two Pointers
 |  |
@@ -167,4 +170,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/prithika3029/leetcode/tree/master/0383-ransom-note) |
+| [2831-number-of-beautiful-pairs](https://github.com/prithika3029/leetcode/tree/master/2831-number-of-beautiful-pairs) |
+## Number Theory
+|  |
+| ------- |
+| [2831-number-of-beautiful-pairs](https://github.com/prithika3029/leetcode/tree/master/2831-number-of-beautiful-pairs) |
 <!---LeetCode Topics End-->
