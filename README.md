@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0383-ransom-note](https://github.com/prithika3029/leetcode/tree/master/0383-ransom-note) |
 | [0434-number-of-segments-in-a-string](https://github.com/prithika3029/leetcode/tree/master/0434-number-of-segments-in-a-string) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/prithika3029/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1547-destination-city](https://github.com/prithika3029/leetcode/tree/master/1547-destination-city) |
 | [1899-count-items-matching-a-rule](https://github.com/prithika3029/leetcode/tree/master/1899-count-items-matching-a-rule) |
 | [2010-check-if-word-equals-summation-of-two-words](https://github.com/prithika3029/leetcode/tree/master/2010-check-if-word-equals-summation-of-two-words) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/prithika3029/leetcode/tree/master/0383-ransom-note) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/prithika3029/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1547-destination-city](https://github.com/prithika3029/leetcode/tree/master/1547-destination-city) |
 | [2831-number-of-beautiful-pairs](https://github.com/prithika3029/leetcode/tree/master/2831-number-of-beautiful-pairs) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/prithika3029/leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/prithika3029/leetcode/tree/master/0383-ransom-note) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/prithika3029/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [2831-number-of-beautiful-pairs](https://github.com/prithika3029/leetcode/tree/master/2831-number-of-beautiful-pairs) |
 ## Number Theory
 |  |
