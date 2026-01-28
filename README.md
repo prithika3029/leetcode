@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/prithika3029/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0383-ransom-note](https://github.com/prithika3029/leetcode/tree/master/0383-ransom-note) |
 | [0434-number-of-segments-in-a-string](https://github.com/prithika3029/leetcode/tree/master/0434-number-of-segments-in-a-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/prithika3029/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/prithika3029/leetcode/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/prithika3029/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0383-ransom-note](https://github.com/prithika3029/leetcode/tree/master/0383-ransom-note) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/prithika3029/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1547-destination-city](https://github.com/prithika3029/leetcode/tree/master/1547-destination-city) |
@@ -181,4 +183,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2831-number-of-beautiful-pairs](https://github.com/prithika3029/leetcode/tree/master/2831-number-of-beautiful-pairs) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/prithika3029/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
