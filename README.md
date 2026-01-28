@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/prithika3029/leetcode/tree/master/0001-two-sum) |
 | [0322-coin-change](https://github.com/prithika3029/leetcode/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/prithika3029/leetcode/tree/master/0518-coin-change-ii) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/prithika3029/leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/prithika3029/leetcode/tree/master/0001-two-sum) |
 | [0383-ransom-note](https://github.com/prithika3029/leetcode/tree/master/0383-ransom-note) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/prithika3029/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1547-destination-city](https://github.com/prithika3029/leetcode/tree/master/1547-destination-city) |
